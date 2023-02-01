@@ -7,8 +7,9 @@ export default function Quote() {
       <p style={{ fontFamily: 'Tangerine', fontSize: '2.5em' }}>
         &quot;Mathematics is not about numbers, equations, computations, or
         algorithms: it is about understanding.&quot;
+        <span style={{ fontFamily: 'Tangerine' }}>- Willian Paul Thurtson</span>
       </p>
-      <span style={{ fontFamily: 'Tangerine', fontSize: '1.5em' }}>- Willian Paul Thurtson</span>
+
     </div>
   );
 }
