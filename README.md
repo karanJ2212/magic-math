@@ -42,6 +42,7 @@
 - **Scientific Calculator**
 - **Home Page**
 - **Quote Section**
+- **Added unit test and snapshot test**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
