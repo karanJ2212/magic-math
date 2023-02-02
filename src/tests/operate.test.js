@@ -13,4 +13,7 @@ describe('Test for operate function logic. It takes two numbers and the operator
   test('Divide two numbers', () => {
     expect(operate(9, 3, '÷')).toEqual('3');
   });
+  test('Mod of two numbers', () => {
+    expect(operate(9, 3, '%')).toEqual('0');
+  });
 });

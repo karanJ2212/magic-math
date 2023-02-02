@@ -50,4 +50,14 @@ describe('Test that when given a button name and a calculator Obj object, the ca
     Obj = calculate(Obj, '100');
     expect(calculate(Obj, '=')).toStrictEqual({ total: '1', next: null, operation: null });
   });
+  test('Passing objects of two numbers and % operator to get their remainder', () => {
+    Obj = calculate(Obj, '100');
+    Obj = calculate(Obj, '%');
+    Obj = calculate(Obj, '33');
+    expect(calculate(Obj, '=')).toStrictEqual({
+      total: '1',
+      next: null,
+      operation: null,
+    });
+  });
 });
