@@ -42,6 +42,7 @@
 - **Scientific Calculator**
 - **Home Page**
 - **Quote Section**
+- **Added unit test and snapshot test**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,6 +119,11 @@ You can deploy this project using:
 
 - GitHub: [@Karan](https://github.com/karanj2212)
 - Twitter: [@Karan](https://twitter.com/karanjain2212)
+
+👤 **Patrick Mukula**
+
+- GitHub: [@Patfarmurs](https://github.com/Patfarmurs)
+- Twitter: [@Patfarmurs](https://twitter.com/Patfarmurs)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

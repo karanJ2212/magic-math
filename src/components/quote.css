@@ -1,0 +1,11 @@
+.pageContainer {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 6em;
+}
+
+span {
+  font-size: 1.5rem !important;
+}
