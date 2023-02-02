@@ -1,4 +1,5 @@
 import operate from '../logic/operate';
+
 describe('Test for operate function logic. It takes two numbers and the operator as argumenet', () => {
   test('Return the sum of two numbers', () => {
     expect(operate(10, 22, '+')).toEqual('32');
