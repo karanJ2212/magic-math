@@ -1,9 +1,9 @@
 import renderer from 'react-test-renderer';
 import { MemoryRouter } from 'react-router-dom';
-import Home from '../components/Home';
-import Calculator from '../components/Calculator';
-import Navigation from '../components/Navbar';
-import Quote from '../components/Quote';
+import Home from '../components/home';
+import Calculator from '../components/calculator';
+import Navigation from '../components/navbar';
+import Quote from '../components/quote';
 
 it('Test if Home renders correctly', () => {
   const tree = renderer.create(<Home />).toJSON();
